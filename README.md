@@ -1,5 +1,13 @@
 # agoncal-application-conference
 
+Ce projet est mon fork du projet présenté lors du Devoxx 2017
+https://www.youtube.com/watch?v=SBVzANQKTEY&t=3876s
+
+Je n'ai rien modifié pour le moment.
+Le projet d'origine :
+https://github.com/agoncal/agoncal-application-conference
+
+
 ## Maven
 
 * `mvn versions:display-plugin-updates` checks plugin versions
