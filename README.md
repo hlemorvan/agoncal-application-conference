@@ -9,7 +9,8 @@ https://github.com/agoncal/agoncal-application-conference
 
 La partie Angular correspondante est pour le moment ici : https://github.com/hlemorvan/UniversityDevoxx
 
-Et j'ai mis le powerpoint dans pptx
+Et j'ai mis le powerpoint dans pptx qui vient de https://www.slideshare.net/agoncal/when-enterprise-java-micro-profile-meets-angular
+
 
 ## Maven
 
