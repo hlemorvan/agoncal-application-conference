@@ -7,6 +7,9 @@ Je n'ai rien modifié pour le moment.
 Le projet d'origine :
 https://github.com/agoncal/agoncal-application-conference
 
+La partie Angular correspondante est pour le moment ici : https://github.com/hlemorvan/UniversityDevoxx
+
+Et j'ai mis le powerpoint dans pptx
 
 ## Maven
 
